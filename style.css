@@ -1,0 +1,32 @@
+.container-2{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    gap: 50px;
+    /* background-color: violet; */
+    justify-content: center;
+}
+.container-2 div{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    padding: 10px;
+    height: 300px;
+    margin: 0px 0px 0px 0px;
+    border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* this adds the shaded border */
+}
+i{
+    margin: 0px 0px 0px 0px;
+    font-size: 45px;
+    width: 59px;
+    padding-top: 11px;
+    height: 57px;
+    background-color: #a9ebc7;
+    color: rgb(52, 116, 78);
+    text-align: center;
+}
+.color{
+    color: black;
+}
+h5{
+    font-weight: 100px;
+}
